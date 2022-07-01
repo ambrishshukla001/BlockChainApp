@@ -1,0 +1,6 @@
+module Pods_GlobalReit {
+  umbrella header "Pods-GlobalReit-umbrella.h"
+
+  export *
+  module * { export * }
+}

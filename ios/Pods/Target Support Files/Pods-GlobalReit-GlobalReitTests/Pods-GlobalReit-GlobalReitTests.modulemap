@@ -1,0 +1,6 @@
+module Pods_GlobalReit_GlobalReitTests {
+  umbrella header "Pods-GlobalReit-GlobalReitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
